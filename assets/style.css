@@ -60,8 +60,10 @@ img {
    width: 100%;
  }
  img{
-   height: 150px;
-   margin: 30px;
+   height: 200px;
+ }
+ .col-lg-12{
+   margin-top: 20px;
  }
 hr{
   background-color: black;
@@ -80,6 +82,9 @@ hr{
   .row{
     margin-top: 0;
     width: 100%;
+  }
+  h1{
+    margin: 10px;
   }
 }
 @media screen and (min-width:991px){
